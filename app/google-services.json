@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414070881095",
+    "firebase_url": "https://doctor-appointment-15502-default-rtdb.firebaseio.com",
+    "project_id": "doctor-appointment-15502",
+    "storage_bucket": "doctor-appointment-15502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414070881095:android:ada386511ff43e9f1cea62",
+        "android_client_info": {
+          "package_name": "gvs.com.hospital_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414070881095-lakbk1ir06pgpfdc6e3lmghlrcu8f0fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-3qC8e3diVnVpFEx8l3TIOKcqeCJS2S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414070881095-lakbk1ir06pgpfdc6e3lmghlrcu8f0fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

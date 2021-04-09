@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#046307</color>
+    <color name="colorPrimaryDark">#8ADC8E</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorPrimaryVariant">#03DAC5</color>
+    <color name="colorOnPrimary">#046307</color>
+    <!-- Secondary brand color. -->
+    <color name="colorSecondary">#8ADC8E</color>
+    <color name="colorSecondaryVariant">#03DAC5</color>
+    <color name="colorOnSecondary">#8ADC8E</color>
+
+    <color name="green">#44ba52</color>
+    <color name="orange">#ff9933</color>
+    <color name="blue">#228aae</color>
+    <color name="purple">#8989e5</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="red">#b30000</color>
+
+
+</resources>

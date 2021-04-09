@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/dhome"
+            android:title="Home" />
+        <item
+            android:id="@+id/cpas"
+            android:title="Change Password" />
+        <item
+            android:id="@+id/addtime"
+            android:title="Add Time" />
+        <item
+            android:id="@+id/mtime"
+            android:title="View Available Time" />
+        <item
+            android:id="@+id/vapp"
+            android:title="View Appoinments" />
+        <item
+            android:id="@+id/feedback"
+            android:title="View Feedback" />
+        <item
+            android:id="@+id/emergency"
+            android:title="View Emergency Cases" />
+        <item
+            android:id="@+id/dlogout"
+            android:title="Logout" />
+    </group>
+
+
+
+</menu>

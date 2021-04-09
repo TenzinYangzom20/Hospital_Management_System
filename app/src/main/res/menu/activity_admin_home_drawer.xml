@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ahome"
+            android:title="Home" />
+        <item
+            android:id="@+id/ahos"
+            android:title="Add Hospital" />
+        <item
+            android:id="@+id/special"
+            android:title="Add Specilization" />
+        <item
+            android:id="@+id/adoc"
+            android:title="Add Doctor " />
+        <item
+            android:id="@+id/vhos"
+            android:title="View Hospital" />
+        <item
+            android:id="@+id/vusers"
+            android:title="View Users" />
+        <item
+            android:id="@+id/alogout"
+            android:title="Logout" />
+    </group>
+
+
+
+</menu>
